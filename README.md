@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">I'm about to finish the QA Engineering course at @yandex.practicum and have completed two new projects for my portfolio: testing web app Yandex Routes and mobile app Yandex Metro. For these projects, I managed to: Design checklists and test cases; Perform positive & negative testing, cross-platform & cross-browser testing; Test the layout for adaptability; Use a sniffer; Test API. Tools and stacks: #AndroidStudio #Charles #Postman #Swagger #Apidoc</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://t.me/r0meo_1</h3>
 <p align="left">
 </p>
 
