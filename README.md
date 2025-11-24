@@ -1,11 +1,18 @@
-# 👋 Привет! Я QA Engineer / Test Automation Engineer
+# 👋 Привет! Я Roman - QA Engineer / Test Automation Engineer
 
 > **Специализируюсь на комплексном тестировании веб-приложений, REST API и автоматизации тестирования**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/Khorm)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/r0meo-1)
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.11-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![JUnit](https://img.shields.io/badge/JUnit-5-25A162.svg)](https://junit.org/junit5/)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue.svg)](https://t.me/r0meo_1)
+
+---
+
+## 🎓 О себе
+
+Завершаю курс QA Engineering в [@yandex.practicum](https://practicum.yandex.ru/) и активно развиваюсь в области тестирования. Имею опыт тестирования веб и мобильных приложений, включая проекты для Яндекс.Маршруты и Яндекс.Метро.
 
 ---
 
@@ -35,18 +42,24 @@
 ### Тестирование
 - ✅ **Unit Testing** — JUnit 5, Mockito
 - ✅ **Integration Testing** — Spring Test, MockMvc
-- ✅ **API Testing** — REST API, JWT authentication
+- ✅ **API Testing** — REST API, JWT authentication, Postman, Swagger
 - ✅ **E2E Testing** — TestSprite, Selenium
 - ✅ **Security Testing** — Spring Security, RBAC
-- ✅ **Manual Testing** — структурированные тест-кейсы
+- ✅ **Manual Testing** — структурированные тест-кейсы, чек-листы
 - ✅ **Smoke Testing** — быстрая проверка критичных функций
+- ✅ **Mobile Testing** — Android Studio, эмуляторы
+- ✅ **Cross-platform & Cross-browser Testing**
+- ✅ **Layout Testing** — адаптивность, responsive design
+- ✅ **Network Testing** — Charles Proxy (sniffer)
 
 ### Инструменты
 - **Тестирование:** JUnit 5, MockMvc, Mockito, TestSprite, Selenium
-- **API:** Postman, curl, REST Assured
+- **API:** Postman, curl, REST Assured, Swagger, Apidoc
+- **Mobile:** Android Studio
+- **Network:** Charles Proxy
 - **Базы данных:** PostgreSQL, MySQL
 - **CI/CD:** GitHub Actions, Gradle
-- **Версионный контроль:** Git, GitHub
+- **Версионный контроль:** Git, GitHub, Linux
 
 ### Языки программирования
 - **Java** — основной язык для тестирования
@@ -95,6 +108,27 @@
 
 [📁 Портфолио →](https://github.com/Khorm/petralib-constructor/blob/feature/fixes-and-testing-improvements/TESTING_PORTFOLIO.md) | [🔗 Репозиторий →](https://github.com/Khorm/petralib-constructor)
 
+### 📱 Яндекс.Метро - Тестирование мобильного приложения
+**Роль:** QA Engineer  
+**Период:** 2024-2025
+
+Тестирование мобильного приложения:
+- Дизайн чек-листов и тест-кейсов
+- Позитивное и негативное тестирование
+- Кросс-платформенное тестирование
+- Тестирование адаптивности layout
+- Использование sniffer (Charles)
+
+### 🗺 Яндекс.Маршруты - Тестирование веб-приложения
+**Роль:** QA Engineer  
+**Период:** 2024-2025
+
+Тестирование веб-приложения:
+- Дизайн чек-листов и тест-кейсов
+- Кросс-браузерное тестирование
+- Тестирование API
+- Тестирование адаптивности
+
 ---
 
 ## 📚 Документация
@@ -112,14 +146,16 @@
 - ✅ **30/30 тестов прошли** — TestSprite автоматизация
 - ✅ **10+ багов исправлено** — включая критические уязвимости
 - ✅ **Полная документация** — API, тесты, руководства
+- ✅ **Опыт тестирования** — веб и мобильные приложения
+- ✅ **Курс QA Engineering** — Яндекс.Практикум (в процессе завершения)
 
 ---
 
 ## 📞 Контакты
 
-- 🐙 **GitHub:** [@Khorm](https://github.com/Khorm)
-- 📧 **Email:** [указать email]
-- 💼 **LinkedIn:** [указать LinkedIn]
+- 🐙 **GitHub:** [@r0meo-1](https://github.com/r0meo-1)
+- 💬 **Telegram:** [@r0meo_1](https://t.me/r0meo_1)
+- 📧 **Email:** r0meo1.ru@gmail.com
 
 ---
 
@@ -129,5 +165,4 @@
 
 ---
 
-**Последнее обновление:** 2025-01-XX
-
+**Последнее обновление:** 2025-01-24
