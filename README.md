@@ -27,7 +27,7 @@
 
 **Технологии:** Java 17, Spring Boot, JUnit 5, MockMvc, TestSprite, PostgreSQL
 
-[📁 Портфолио](https://github.com/Khorm/petralib-constructor/blob/feature/fixes-and-testing-improvements/TESTING_PORTFOLIO.md) | [🔗 Репозиторий](https://github.com/Khorm/petralib-constructor)
+[🔗 Репозиторий](https://github.com/Khorm/petralib-constructor)
 
 ---
 
