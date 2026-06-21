@@ -1,19 +1,18 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=r0meo-1&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=QA%20Engineer%20%E2%80%A2%20Automation%20%E2%80%A2%20Product&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=r0meo-1&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=QA%20Engineer%20%7C%20API%20%7C%20SQL%20%7C%20Automation&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="header"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE+%E2%80%94+%D1%8D%D1%82%D0%BE+%D0%BF%D1%80%D0%B8%D0%B2%D1%8B%D1%87%D0%BA%D0%B0%2C+%D0%B0+%D0%BD%D0%B5+%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5.;3%2B+%D0%BB%D0%B5%D1%82+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+QA-%D0%BE%D0%BF%D1%8B%D1%82%D0%B0;API+%7C+Web+%7C+Mobile+%7C+Automation" alt="Typing SVG" />
+<a href="https://r0meo1.ru">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%E2%80%94%20%D1%8D%D1%82%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B2%D1%8B%D1%87%D0%BA%D0%B0%2C%20%D0%B0%20%D0%BD%D0%B5%20%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5.%3B4%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20QA-%D0%BE%D0%BF%D1%8B%D1%82%D0%B0%3BAPI%20%7C%20Web%20%7C%20SQL%20%7C%20Automation%20%7C%20CI%2FCD" alt="Typing SVG" />
 </a>
 
-<!-- PROFILE VIEWS + SOCIALS -->
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-r0meo1.ru-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://r0meo1.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-@r0meo__1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/r0meo_1)
-[![Email](https://img.shields.io/badge/Email-r0meo1.ru@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r0meo1.ru@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@r0meo1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/r0meo1)
+[![Email](https://img.shields.io/badge/Email-r0meo1@ya.ru-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:r0meo1@ya.ru)
 
 <img src="https://komarev.com/ghpvc/?username=r0meo-1&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -25,20 +24,64 @@
 
 ```yaml
 name: Роман Неклюдов
-role: QA Engineer
-location: Архангельск / Северодвинск, Россия
-experience: 3+ лет коммерческого опыта
+role: Middle QA Engineer
+location: Россия · удалённо
+experience: 4 года коммерческого опыта
 focus:
-  - Функциональное и регрессионное тестирование
-  - API-тестирование (REST, HTTP, Postman, Swagger)
+  - Функциональное, регрессионное, smoke, интеграционное тестирование
+  - API-тестирование (REST, HTTP, Postman, Newman, Swagger)
   - SQL / PostgreSQL — контроль целостности данных
-  - Автоматизация тестирования
-  - CI/CD и DevOps-процессы
+  - Автоматизация тестирования и CI/CD (GitHub Actions)
+domains:
+  - Платёжные интеграции, онлайн-бронирование, CRM, SaaS, e-commerce
 achievements:
   - "↓ 15% сбоев в критичных бизнес-операциях"
   - "↓ 25% среднего времени решения инцидентов"
-  - "↑ 8-10 ч/нед экономии на подготовке отчётов"
+  - "↑ 8-10 ч/нед экономии на отчётности через SQL и n8n"
 ```
+
+---
+
+## `> ls qa-portfolio/`  ← живые артефакты с зелёным CI
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧪 [qa-api-tests](https://github.com/r0meo-1/qa-api-tests)
+**API-автотесты: Postman + Newman**
+<br/>9 запросов, 20 проверок: smoke, позитив, негатив, идемпотентность, JSON Schema.
+<br/>`Postman` `Newman` `REST` `CI`
+<br/><br/>
+[![CI](https://github.com/r0meo-1/qa-api-tests/actions/workflows/api-tests.yml/badge.svg)](https://github.com/r0meo-1/qa-api-tests/actions/workflows/api-tests.yml)
+
+</td>
+<td width="33%" valign="top">
+
+### 🗄️ [sql-data-quality](https://github.com/r0meo-1/sql-data-quality)
+**SQL-проверки качества данных**
+<br/>10 проверок целостности CRM на PostgreSQL, прогон в CI на реальной БД.
+<br/>`SQL` `PostgreSQL` `Data QA` `CI`
+<br/><br/>
+[![CI](https://github.com/r0meo-1/sql-data-quality/actions/workflows/sql-checks.yml/badge.svg)](https://github.com/r0meo-1/sql-data-quality/actions/workflows/sql-checks.yml)
+
+</td>
+<td width="33%" valign="top">
+
+### 📋 [qa-test-cases](https://github.com/r0meo-1/qa-test-cases)
+**Ручное QA и тест-дизайн**
+<br/>Тест-план, тест-кейсы, чек-листы, баг-репорты, матрица прослеживаемости.
+<br/>`Test Design` `Checklists` `Bug Reports`
+<br/><br/>
+[![Docs](https://github.com/r0meo-1/qa-test-cases/actions/workflows/docs-check.yml/badge.svg)](https://github.com/r0meo-1/qa-test-cases/actions/workflows/docs-check.yml)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -46,29 +89,33 @@ achievements:
 
 <div align="center">
 
-### Languages & Data
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,postgres&theme=dark" alt="Languages"/>
-
 ### Testing & QA
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Newman"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5"/>
 <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/Charles_Proxy-2A6FBB?style=for-the-badge" alt="Charles Proxy"/>
 <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools"/>
 </p>
 
-### Infrastructure & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,idea&theme=dark" alt="Tools"/>
-
-### Frameworks & Platforms
+### Trackers & Process
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="YouTrack"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+<img src="https://img.shields.io/badge/Agile_·_Scrum-6DB33F?style=for-the-badge" alt="Agile Scrum"/>
+</p>
+
+### Data & Languages
+<img src="https://skillicons.dev/icons?i=postgres,python,javascript,html,css&theme=dark" alt="Data & Languages"/>
+
+### Automation & DevOps
+<img src="https://skillicons.dev/icons?i=githubactions,docker,git,github,linux&theme=dark" alt="Automation & DevOps"/>
+<p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5"/>
 </p>
 
 </div>
@@ -83,13 +130,12 @@ achievements:
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/-Production-58a6ff?style=flat-square" alt=""/> [r0meo1.ru](https://r0meo1.ru)
-**Портфолио QA-инженера**
-<br/>Bento-grid, анимации, glassmorphism, тёмная тема, автодеплой.
-<br/>`HTML` `CSS` `JS` `Netlify` `GitHub Actions`
+### <img src="https://img.shields.io/badge/-Automation-d29922?style=flat-square" alt=""/> [turbot-arhangelsk](https://github.com/r0meo-1/turbot-arhangelsk)
+**Telegram-бот для подбора туров**
+<br/>Пошаговый диалог, валидация, CRM-интеграция, n8n.
+<br/>`Python` `Telegram API` `n8n` `CRM`
 <br/>
-[![Repo](https://img.shields.io/badge/Repo-r0meo1.ru-161b22?style=flat-square&logo=github)](https://github.com/r0meo-1/r0meo1.ru)
-[![Live](https://img.shields.io/badge/Live-r0meo1.ru-58a6ff?style=flat-square&logo=googlechrome&logoColor=white)](https://r0meo1.ru)
+[![Bot](https://img.shields.io/badge/Bot-@turbot__arhangelsk-26A5E4?style=flat-square&logo=telegram)](https://t.me/turbot_arhangelsk_bot)
 
 </td>
 <td width="50%" valign="top">
@@ -98,53 +144,26 @@ achievements:
 **Сервис управления ремонтными заявками**
 <br/>REST API, Docker-контейнеризация, CI/CD pipeline.
 <br/>`Python` `Docker` `REST API`
-<br/>
-[![Repo](https://img.shields.io/badge/Repo-repair--service-161b22?style=flat-square&logo=github)](https://github.com/r0meo-1/repair-service)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/-Automation-d29922?style=flat-square" alt=""/> [turbot-arhangelsk](https://github.com/r0meo-1/turbot-arhangelsk)
-**Telegram-бот для подбора туров**
-<br/>Пошаговый диалог, валидация, CRM-интеграция, n8n.
-<br/>`Python` `Telegram API` `n8n` `CRM`
+### <img src="https://img.shields.io/badge/-Production-58a6ff?style=flat-square" alt=""/> [r0meo1.ru](https://r0meo1.ru)
+**Портфолио QA-инженера**
+<br/>Сайт-визитка и кейсы: bento-grid, тёмная тема, автодеплой.
+<br/>`HTML` `CSS` `JS` `Netlify` `GitHub Actions`
 <br/>
-[![Repo](https://img.shields.io/badge/Repo-turbot--arhangelsk-161b22?style=flat-square&logo=github)](https://github.com/r0meo-1/turbot-arhangelsk)
-[![Bot](https://img.shields.io/badge/Bot-@turbot__arhangelsk-26A5E4?style=flat-square&logo=telegram)](https://t.me/turbot_arhangelsk_bot)
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/-Tool-a371f7?style=flat-square" alt=""/> [DnsConf](https://github.com/r0meo-1/DnsConf)
-**DNS Block & Redirect Configurator**
-<br/>Управление DNS-правилами для Cloudflare / NextDNS.
-<br/>`Java`
-<br/>
-[![Repo](https://img.shields.io/badge/Repo-DnsConf-161b22?style=flat-square&logo=github)](https://github.com/r0meo-1/DnsConf)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/-Automation-d29922?style=flat-square" alt=""/> [lavka325x-bot](https://github.com/r0meo-1/lavka325x-bot)
-**Telegram-бот поиска по каналу**
-<br/>Поиск постов по ключевым словам в истории канала.
-<br/>`Python` `Telethon` `pyTelegramBotAPI`
-<br/>
-[![Repo](https://img.shields.io/badge/Repo-lavka325x--bot-161b22?style=flat-square&logo=github)](https://github.com/r0meo-1/lavka325x-bot)
+[![Live](https://img.shields.io/badge/Live-r0meo1.ru-58a6ff?style=flat-square&logo=googlechrome&logoColor=white)](https://r0meo1.ru)
 
 </td>
 <td width="50%" valign="top">
 
 ### <img src="https://img.shields.io/badge/-Fullstack-f78166?style=flat-square" alt=""/> [Vacation-Planner](https://github.com/r0meo-1/Vacation-Planner)
 **Планировщик отпусков**
-<br/>Полноценное web-приложение для планирования.
+<br/>Web-приложение, тест-кейсы и проверка интерфейса.
 <br/>`TypeScript` `React`
-<br/>
-[![Repo](https://img.shields.io/badge/Repo-Vacation--Planner-161b22?style=flat-square&logo=github)](https://github.com/r0meo-1/Vacation-Planner)
 
 </td>
 </tr>
@@ -177,17 +196,11 @@ achievements:
 
 <div align="center">
 
-```
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│   ↓ 15% сбоев            ↓ 25% время             ↑ 8-10 ч/нед    │
-│   критичных операций      решения инцидентов       экономии        │
-│                                                                    │
-│   100% покрытие           80+ тест-кейсов         10+ багов        │
-│   API (32 endpoints)      unit/smoke/регресс       исправлено      │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
+| Impact | Coverage | Quality |
+|:------:|:--------:|:-------:|
+| **↓ 15%** сбоев критичных операций | **100%** покрытие API (32 endpoints) | **80+** тест-кейсов |
+| **↓ 25%** времени решения инцидентов | **20** авто-проверок API (Newman) | **10+** критических багов закрыто |
+| **↑ 8-10 ч/нед** экономии на отчётности | **10** SQL data-quality проверок | **3** репозитория с зелёным CI |
 
 </div>
 
@@ -218,8 +231,8 @@ graph LR
 ### Let's connect
 
 <a href="https://r0meo1.ru"><img src="https://img.shields.io/badge/r0meo1.ru-Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://t.me/r0meo_1"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://github.com/r0meo-1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://t.me/r0meo1"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:r0meo1@ya.ru"><img src="https://img.shields.io/badge/Email-r0meo1@ya.ru-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 
 ---
 
